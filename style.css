@@ -1,0 +1,25 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(26, 18, 131);
+}
+h3{
+  font-family:'Comic Sans', Courier, monospace;
+background-color:rgb(88, 25, 85);
+}
+h1{
+  font-family:'Zapf Chancery', Courier, monospace;
+  
+background-color: rgb(224, 77, 150);
+}
+
+alert{
+  background-color: rgb(9, 56, 145);
+}
+
+canvas {
+  display: block;
+ 
+}
+
+
